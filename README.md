@@ -60,7 +60,7 @@ I use Github for versioning.
 
 The MIT License
 
-Copyright (c) [2010-2019] [Henry-Lin00]
+Copyright (c) [2010-2019] [weidajiang]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
