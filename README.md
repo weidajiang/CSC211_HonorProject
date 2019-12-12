@@ -11,11 +11,13 @@ My honor project is to create a IOS Virtual Reality Video Player. The app will g
 * Week 4 - implement the project
 
 
-### Prerequisites
+### Software Setup:
+* Mac, IPhone, Xcode, Google CardBoard
+* Xcode: Go to Apple Store and download the Xcode 
+* Google CardBoard:
+* Purchase Link: https://store.google.com/us/config/google_cardboard?sku=_google_cardboard_double&gclid=CjwKCAiA58fvBRAzEiwAQW-hzeS24ejXaMbdp1ej6KYjZeB74iu0hdATcsPXxoVHBjBFcbpO3eA7LBoCraEQAvD_BwE&gclsrc=aw.ds 
 
 
-
-### Installing
 
 
 
