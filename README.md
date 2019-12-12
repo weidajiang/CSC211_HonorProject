@@ -27,14 +27,21 @@ My honor project is to create a IOS Virtual Reality Video Player. The app will g
 * Step4: Scan the QR code and fetch the data, if video exist, then play the video. Otherwise, provide a invalid video URL message to user. 
 
 
+### User Cases:
+
+
+* BMCC Tour App: 
+
+* For many freshmen, they haven’t been to BMCC and don’t know how to get there or they don’t know         where Admission Office, Financial Office, or Academic Advisement and Transfer Center is.
+
+Make some videos showing how to get from the subway station to Fiterman, Murray, or Main Building, or showing where some of the BMCC departments are.
+
+* Virtual Course Introduction:
+
+* Many students don‘t know how to choose a course. We can make some short course introduction videos (if necessary, the professors can show some 3D models, such as physics class, showing some equipment for physics experiments). This will be a good way to attract students.
 
 
 
-
-
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
