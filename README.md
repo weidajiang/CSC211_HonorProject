@@ -65,7 +65,7 @@ https://www.appcoda.com/qr-code-ios-programming-tutorial/
 
 ## Instructor
 
-* **Dr. Mohammad Azhar**
+* **Dr.Azhar**
 
 
 
