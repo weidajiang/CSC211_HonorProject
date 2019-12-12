@@ -32,18 +32,20 @@ My honor project is to create a IOS Virtual Reality Video Player. The app will g
 
 * BMCC Tour App: 
 
-* For many freshmen, they haven’t been to BMCC and don’t know how to get there or they don’t know         where Admission Office, Financial Office, or Academic Advisement and Transfer Center is.
-
-Make some videos showing how to get from the subway station to Fiterman, Murray, or Main Building, or showing where some of the BMCC departments are.
+* For many freshmen, they haven’t been to BMCC and don’t know how to get there or they don’t know         where Admission Office, Financial Office, or Academic Advisement and Transfer Center is.Make some videos showing how to get from the subway station to Fiterman, Murray, or Main Building, or showing where some of the BMCC departments are.
 
 * Virtual Course Introduction:
 
 * Many students don‘t know how to choose a course. We can make some short course introduction videos (if necessary, the professors can show some 3D models, such as physics class, showing some equipment for physics experiments). This will be a good way to attract students.
 
+### Conclusion:
+* It is my first time using Objective -C(OC) to create a IOS App. The main challenge is definitely the syntax of OC. However, OC is also an object-oriented programming language. So, the general concept of programming has not changed. I can use what I learned in CSC111 and CSC211 class and apply it to Objective – C.
+
+### Future Work:
+
+* Currently, When I install the APP, the corresponding VR video will be saved to my phone. It takes up a lot of local memory. On the contrary, 5G is coming. The speed of downloading videos will be much faster. We can save the videos on the web server or cloud. When the user scan the QR code, the video player will download the corresponding video from the web server, which will also reduce the local memory occupied by the player.
 
 
-
-### Break down into end to end tests
 
 Explain what these tests test and why
 
