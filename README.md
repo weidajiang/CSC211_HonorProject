@@ -1,12 +1,15 @@
 # CSC211H Project
-IOS 360VR VIDEO APP
-# Project Title
+IOS VR VIDEO PLAYER
+# Project Description:
+My honor project is to create a IOS Virtual Reality Video Player. The app will generate and scan different QR codes that I provide to play different videos.
 
-IOS 360VR VIDEO APP
+## Weekly plan
 
-## Getting Started
+Week 1 - come out with a solution(What language, framework, device)
+Week 2 - decide to use Google VR SDK for IOS (Objective-C Version)
+Week 3 – consider how to use native camera component to scan QR code and look up online materials 
+Week 4 - implement the project
 
-This Project will help you to learn how to create a IOS App using . See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
