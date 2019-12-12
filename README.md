@@ -5,10 +5,10 @@ My honor project is to create a IOS Virtual Reality Video Player. The app will g
 
 ## Weekly plan
 
-Week 1 - come out with a solution(What language, framework, device)\n
-Week 2 - decide to use Google VR SDK for IOS (Objective-C Version)\n
-Week 3 – consider how to use native camera component to scan QR code and look up online materials 
-Week 4 - implement the project
+*Week 1 - come out with a solution(What language, framework, device)
+*Week 2 - decide to use Google VR SDK for IOS (Objective-C Version)\n
+*Week 3 – consider how to use native camera component to scan QR code and look up online materials 
+*Week 4 - implement the project
 
 
 ### Prerequisites
