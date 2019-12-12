@@ -17,6 +17,17 @@ My honor project is to create a IOS Virtual Reality Video Player. The app will g
 * Google CardBoard:
 * Purchase Link: https://store.google.com/us/config/google_cardboard?sku=_google_cardboard_double&gclid=CjwKCAiA58fvBRAzEiwAQW-hzeS24ejXaMbdp1ej6KYjZeB74iu0hdATcsPXxoVHBjBFcbpO3eA7LBoCraEQAvD_BwE&gclsrc=aw.ds 
 
+### Software Design
+* Step1 : Main Screen with generate QR code and Scan QR code buttons
+
+* Step2: if user click Generate QR Code button, then user need to put the name of video in the text box
+
+* Step3: if user click Scan QR code button, then call the IOS native camera to scan the QR code 
+
+* Step4: Scan the QR code and fetch the data, if video exist, then play the video. Otherwise, provide a invalid video URL message to user. 
+
+
+
 
 
 
