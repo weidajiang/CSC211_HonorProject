@@ -63,6 +63,10 @@ https://www.appcoda.com/qr-code-ios-programming-tutorial/
 
 * **Weida Jiang**
 
+## Instructor
+
+* **Dr. Mohammad Azhar**
+
 
 
 ## Acknowledgments
